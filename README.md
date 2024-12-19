@@ -7,8 +7,8 @@ Features
 	•	Creative Animations: Smooth animations for the clock hands (hour, minute, second).
 	•	Responsive Design: Adapts well to different screen sizes.
 
-Demo
-
+Demo:
+		https://sankalpmtellur.github.io/Clock/
 
 
 Technologies Used
