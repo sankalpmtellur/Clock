@@ -1,16 +1,11 @@
 Animated Clock Project ⏰
 
-This is a simple clock created using HTML and CSS. The clock includes animations to make it visually appealing while showcasing the current time.
-
-Features
-	•	Real-time Clock: Displays the current time updated every second.
-	•	Creative Animations: Smooth animations for the clock hands (hour, minute, second).
-	•	Responsive Design: Adapts well to different screen sizes.
+This is a simple animated clock created using HTML and CSS. The clock uses animations to simulate the movement of the clock hands, starting from 00:00 upon every refresh.
 
 Demo:
-		https://sankalpmtellur.github.io/Clock/
+	https://sankalpmtellur.github.io/Clock/
 
-
-Technologies Used
-	•	HTML: Structure of the clock.
-	•	CSS: Styling and animations.
+Features:
+	•	Animated Clock Hands: Smooth transitions for the hour, minute, and second hands.
+	•	Static Time Simulation: The clock starts at 00:00 and is not linked to the actual system time.
+	•	Simple Design: A clean and minimalistic look using only HTML and CSS.
