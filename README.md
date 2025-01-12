@@ -3,7 +3,7 @@ Animated Clock Project ⏰
 This is a simple animated clock created using HTML and CSS. The clock uses animations to simulate the movement of the clock hands, starting from 00:00 upon every refresh.
 
 Demo:
-	<a href="https://sankalpmtellur.github.io/Clock/"></a> 
+	<a href="https://sankalpmtellur.github.io/Clock/">Link</a> 
 
 Features:
 	•	Animated Clock Hands: Smooth transitions for the hour, minute, and second hands.
